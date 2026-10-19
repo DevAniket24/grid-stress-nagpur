@@ -1,0 +1,13 @@
+{
+  "P": {
+    "HOSP_SHED_THRESHOLD": 0.95,
+    "PUMP_SHED_THRESHOLD": 0.5,
+    "WATER_STORAGE_H": 8,
+    "REFILL_PER_H": 0.5,
+    "HOSP_WATER_H": 12,
+    "DG_HOURS_MAJOR": 24,
+    "DG_HOURS_SMALL": 4,
+    "PUMP_DG_H": 0
+  },
+  "TAIL_H": 24
+}

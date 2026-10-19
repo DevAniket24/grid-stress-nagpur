@@ -1,0 +1,5 @@
+family,scenarios,elements_out,peak_shed_mw_mean,peak_shed_mw_max,duration_h_mean,unserved_mwh_mean
+N-1,4,1.0,29.750000000000036,84.00000000000001,8.0,238.00000000000028
+storm_extreme_expected,1,29.0,181.0,181.0,54.0,6150.0
+storm_extreme_mc,30,26.233333333333334,145.6,237.0,53.2,4704.0
+storm_severe_mc,30,7.933333333333334,29.80000000000005,122.0,30.0,894.0000000000015

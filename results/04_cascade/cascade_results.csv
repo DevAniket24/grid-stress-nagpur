@@ -1,0 +1,90 @@
+scenario_id,family,peak_shed_mw,duration_h,hospitals_grid_off,hospitals_affected,hospital_hours_lost,hospital_hours_power,hospital_hours_water,bed_hours_lost,pumps_grid_off,water_zone_hours_lost,person_hours_without_water,critical_service_hours_lost
+n1_T12,N-1,84.00000000000001,8,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+n1_L170,N-1,20.0,8,2,1,4.0,4.0,0.0,120.0,0,0.0,0.0,4.0
+n1_L115,N-1,10.000000000000052,8,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+n1_L111,N-1,5.000000000000071,8,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_extreme_expected,storm_extreme_expected,181.0,54,27,27,874.0,874.0,0.0,31320.0,0,0.0,0.0,874.0
+storm_extreme_mc000,storm_extreme_mc,237.0,102,30,30,1000.0,1000.0,0.0,35100.0,0,0.0,0.0,1000.0
+storm_extreme_mc001,storm_extreme_mc,215.0,54,25,25,698.0,698.0,0.0,20940.0,0,0.0,0.0,698.0
+storm_extreme_mc002,storm_extreme_mc,201.0,54,28,28,828.0,828.0,0.0,29940.0,0,0.0,0.0,828.0
+storm_extreme_mc003,storm_extreme_mc,195.0,78,27,27,778.0,778.0,0.0,28440.0,0,0.0,0.0,778.0
+storm_extreme_mc004,storm_extreme_mc,192.0,54,27,27,778.0,778.0,0.0,28440.0,0,0.0,0.0,778.0
+storm_extreme_mc005,storm_extreme_mc,189.0,54,24,24,648.0,648.0,0.0,19440.0,0,0.0,0.0,648.0
+storm_extreme_mc006,storm_extreme_mc,185.0,54,21,21,546.0,546.0,0.0,16380.0,0,0.0,0.0,546.0
+storm_extreme_mc007,storm_extreme_mc,181.0,54,23,23,598.0,598.0,0.0,17940.0,0,0.0,0.0,598.0
+storm_extreme_mc008,storm_extreme_mc,180.0,54,23,23,598.0,598.0,0.0,17940.0,0,0.0,0.0,598.0
+storm_extreme_mc009,storm_extreme_mc,177.0,54,18,18,588.0,588.0,0.0,17640.0,0,0.0,0.0,588.0
+storm_extreme_mc010,storm_extreme_mc,173.00000000000003,54,12,12,312.0,312.0,0.0,9360.0,0,0.0,0.0,312.0
+storm_extreme_mc011,storm_extreme_mc,166.0,54,18,18,472.0,472.0,0.0,15180.0,0,0.0,0.0,472.0
+storm_extreme_mc012,storm_extreme_mc,163.0,54,23,23,674.0,674.0,0.0,25320.0,0,0.0,0.0,674.0
+storm_extreme_mc013,storm_extreme_mc,158.0,54,14,14,364.0,364.0,0.0,10920.0,0,0.0,0.0,364.0
+storm_extreme_mc014,storm_extreme_mc,153.0,54,23,23,674.0,674.0,0.0,25320.0,0,0.0,0.0,674.0
+storm_extreme_mc015,storm_extreme_mc,147.0,54,20,20,544.0,544.0,0.0,16320.0,0,0.0,0.0,544.0
+storm_extreme_mc016,storm_extreme_mc,142.0,54,16,16,420.0,420.0,0.0,13620.0,0,0.0,0.0,420.0
+storm_extreme_mc017,storm_extreme_mc,137.0,30,11,11,266.0,266.0,0.0,9000.0,0,0.0,0.0,266.0
+storm_extreme_mc018,storm_extreme_mc,131.0,54,16,16,420.0,420.0,0.0,13620.0,0,0.0,0.0,420.0
+storm_extreme_mc019,storm_extreme_mc,126.0,54,10,10,284.0,284.0,0.0,8520.0,0,0.0,0.0,284.0
+storm_extreme_mc020,storm_extreme_mc,123.0,54,15,15,370.0,370.0,0.0,12120.0,0,0.0,0.0,370.0
+storm_extreme_mc021,storm_extreme_mc,122.0,54,20,20,596.0,596.0,0.0,22980.0,0,0.0,0.0,596.0
+storm_extreme_mc022,storm_extreme_mc,114.0,54,9,9,234.0,234.0,0.0,7020.0,0,0.0,0.0,234.0
+storm_extreme_mc023,storm_extreme_mc,110.0,30,11,11,286.0,286.0,0.0,8580.0,0,0.0,0.0,286.0
+storm_extreme_mc024,storm_extreme_mc,96.0,54,8,104,1148.0,188.0,960.0,55860.0,1,22.0,11800764.77694605,1170.0
+storm_extreme_mc025,storm_extreme_mc,87.99999999999989,54,16,16,396.0,396.0,0.0,12900.0,0,0.0,0.0,396.0
+storm_extreme_mc026,storm_extreme_mc,79.0,54,13,13,362.0,362.0,0.0,10860.0,0,0.0,0.0,362.0
+storm_extreme_mc027,storm_extreme_mc,72.0,30,7,7,182.0,182.0,0.0,5460.0,0,0.0,0.0,182.0
+storm_extreme_mc028,storm_extreme_mc,64.0,54,8,8,188.0,188.0,0.0,6660.0,0,0.0,0.0,188.0
+storm_extreme_mc029,storm_extreme_mc,52.00000000000001,30,8,8,188.0,188.0,0.0,6660.0,0,0.0,0.0,188.0
+storm_severe_mc000,storm_severe_mc,122.0,30,15,15,370.0,370.0,0.0,12120.0,0,0.0,0.0,370.0
+storm_severe_mc001,storm_severe_mc,110.0,30,11,11,286.0,286.0,0.0,8580.0,0,0.0,0.0,286.0
+storm_severe_mc002,storm_severe_mc,110.0,30,11,11,286.0,286.0,0.0,8580.0,0,0.0,0.0,286.0
+storm_severe_mc003,storm_severe_mc,80.00000000000014,30,12,12,312.0,312.0,0.0,9360.0,0,0.0,0.0,312.0
+storm_severe_mc004,storm_severe_mc,71.0,30,7,7,182.0,182.0,0.0,5460.0,0,0.0,0.0,182.0
+storm_severe_mc005,storm_severe_mc,70.0,30,12,12,312.0,312.0,0.0,9360.0,0,0.0,0.0,312.0
+storm_severe_mc006,storm_severe_mc,45.99999999999989,30,8,8,208.0,208.0,0.0,6240.0,0,0.0,0.0,208.0
+storm_severe_mc007,storm_severe_mc,40.00000000000001,30,4,4,104.0,104.0,0.0,3120.0,0,0.0,0.0,104.0
+storm_severe_mc008,storm_severe_mc,39.0,30,4,4,104.0,104.0,0.0,3120.0,0,0.0,0.0,104.0
+storm_severe_mc009,storm_severe_mc,34.0,30,2,2,52.0,52.0,0.0,1560.0,0,0.0,0.0,52.0
+storm_severe_mc010,storm_severe_mc,21.999999999999943,30,4,4,84.0,84.0,0.0,3540.0,0,0.0,0.0,84.0
+storm_severe_mc011,storm_severe_mc,12.0,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc012,storm_severe_mc,12.0,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc013,storm_severe_mc,11.00000000000015,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc014,storm_severe_mc,10.000000000000677,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc015,storm_severe_mc,10.000000000000496,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc016,storm_severe_mc,10.000000000000233,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc017,storm_severe_mc,10.000000000000052,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc018,storm_severe_mc,10.000000000000009,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc019,storm_severe_mc,9.999999999999964,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc020,storm_severe_mc,9.999999999999876,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc021,storm_severe_mc,8.0,30,1,1,26.0,26.0,0.0,780.0,0,0.0,0.0,26.0
+storm_severe_mc022,storm_severe_mc,5.9999999999999885,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc023,storm_severe_mc,5.000000000000071,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc024,storm_severe_mc,5.000000000000071,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc025,storm_severe_mc,4.999999999999993,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc026,storm_severe_mc,4.999999999999982,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc027,storm_severe_mc,4.999999999999982,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc028,storm_severe_mc,4.999999999999893,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+storm_severe_mc029,storm_severe_mc,1.0000000000000064,30,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp245_median_L111,heat: ssp245 median,8.694440351536414,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp245_median_L115,heat: ssp245 median,13.518514620511011,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp245_median_L170,heat: ssp245 median,20.0,6,2,1,2.0,2.0,0.0,60.0,0,0.0,0.0,2.0
+heat_ssp245_median_T12,heat: ssp245 median,84.00000000000001,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp245_hot_model_p10_L111,heat: ssp245 hot model (p10),11.633527984289316,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp245_hot_model_p10_L115,heat: ssp245 hot model (p10),16.31764569932379,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp245_hot_model_p10_L170,heat: ssp245 hot model (p10),20.0,6,2,1,2.0,2.0,0.0,60.0,0,0.0,0.0,2.0
+heat_ssp245_hot_model_p10_T12,heat: ssp245 hot model (p10),84.00000000000001,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp245_median_plus_demand_L111,heat: ssp245 median + demand,12.474207258274816,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp245_median_plus_demand_L115,heat: ssp245 median + demand,17.29828152724977,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp245_median_plus_demand_L170,heat: ssp245 median + demand,20.687230346679687,6,2,1,2.0,2.0,0.0,60.0,0,0.0,0.0,2.0
+heat_ssp245_median_plus_demand_T12,heat: ssp245 median + demand,90.3225191894531,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp585_median_L111,heat: ssp585 median,11.394080758415017,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp585_median_L115,heat: ssp585 median,16.08960072229948,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp585_median_L170,heat: ssp585 median,20.0,6,2,1,2.0,2.0,0.0,60.0,0,0.0,0.0,2.0
+heat_ssp585_median_T12,heat: ssp585 median,84.00000000000001,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp585_hot_model_p10_L111,heat: ssp585 hot model (p10),15.336820457827828,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp585_hot_model_p10_L115,heat: ssp585 hot model (p10),19.844590912218152,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp585_hot_model_p10_L170,heat: ssp585 hot model (p10),20.0,6,2,1,2.0,2.0,0.0,60.0,0,0.0,0.0,2.0
+heat_ssp585_hot_model_p10_T12,heat: ssp585 hot model (p10),84.00000000000001,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp585_median_plus_demand_L111,heat: ssp585 median + demand,17.20306652196477,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp585_median_plus_demand_L115,heat: ssp585 median + demand,21.89858648584924,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0
+heat_ssp585_median_plus_demand_L170,heat: ssp585 median + demand,21.05617922973633,6,2,1,2.0,2.0,0.0,60.0,0,0.0,0.0,2.0
+heat_ssp585_median_plus_demand_T12,heat: ssp585 median + demand,93.7168489135742,6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0

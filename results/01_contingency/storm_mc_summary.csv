@@ -1,0 +1,3 @@
+storm,v_peak,samples,mean_lines_failed,p95_lines_failed,p_any_shed,mean_shed_mw,p50_shed_mw,p95_shed_mw,max_shed_mw,mean_shed_pct_of_load
+extreme,55.0,500,26.478,31.0,0.996,137.628,143.0,203.0,237.0,3.244413012729844
+severe,50.0,500,7.134,11.0,0.502,13.440000000000026,1.0000000000000064,80.00000000000006,122.0,0.3168316831683175

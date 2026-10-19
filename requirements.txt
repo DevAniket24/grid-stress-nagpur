@@ -1,0 +1,10 @@
+pandapower>=3.0
+pvlib>=0.11
+earthengine-api
+numpy
+pandas
+scipy
+matplotlib
+networkx
+shapely>=2.0
+requests

@@ -1,0 +1,35 @@
+{
+  "site": "Nagpur, Maharashtra",
+  "conductor": "ACSR Zebra 54/7",
+  "Ts_max": 75.0,
+  "wind_case": "fixed 0.61 m/s",
+  "baseline": [
+    1985,
+    2014
+  ],
+  "future": [
+    2041,
+    2070
+  ],
+  "ratios": {
+    "ssp245": {
+      "p50": 0.9648148537948957,
+      "p10": 0.9368235430067712
+    },
+    "ssp585": {
+      "p50": 0.9391039927770022,
+      "p10": 0.9015540908778273
+    }
+  },
+  "delta_Ta_median": {
+    "ssp245": 1.7180758666992197,
+    "ssp585": 2.6404480743408207
+  },
+  "peak_factors": {
+    "n_hot_days": 122,
+    "typical_hour_of_tmax": 14,
+    "k_rad_coincident": 2.7215026803878275,
+    "k_rad_peak": 3.268258900402526,
+    "k_wind": 0.9264608946910391
+  }
+}

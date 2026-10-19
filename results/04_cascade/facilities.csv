@@ -1,0 +1,460 @@
+id,type,tier,beds,name,lat,lon,bus,pump,pop,osm_id,mapping
+H000,hospital,major,200.0,Govt. Medical College,21.1295149,79.0974689,75,W00,0.0,node/297648562,synthetic bus assignment
+H001,hospital,major,200.0,Indira Gandhi Medical College & Hospital,21.1541868,79.0936492,106,W09,0.0,node/299190531,synthetic bus assignment
+H002,hospital,small,30.0,Inpatient Department,21.126903,79.1141613,89,W00,0.0,node/1834257603,synthetic bus assignment
+H003,hospital,small,30.0,Outpatient Department,21.127343,79.1136038,33,W00,0.0,node/1834257604,synthetic bus assignment
+H004,hospital,small,30.0,Sanjivani Hospital,21.1331511,79.0998847,41,W00,0.0,node/1836790305,synthetic bus assignment
+H005,hospital,small,30.0,Matoshri Nursing Home,21.129156,79.1138731,103,W00,0.0,node/1966830165,synthetic bus assignment
+H006,hospital,small,30.0,Matru Sewa Sangh (Maternity),21.1438599,79.1076243,0,W09,0.0,node/2536741976,synthetic bus assignment
+H007,hospital,major,200.0,Nagpur Super Speciality Hospital,21.1241779,79.1026344,95,W00,0.0,node/2593300353,synthetic bus assignment
+H008,hospital,major,200.0,Rashtrasant Tukdoji Maharaj Cancer Hospital,21.1239077,79.1043456,91,W00,0.0,node/2593300379,synthetic bus assignment
+H009,hospital,small,30.0,Asha General Hospital,21.1115524,79.1040801,58,W04,0.0,node/2593305380,synthetic bus assignment
+H010,hospital,small,30.0,Apulki Vairagade Hospital,21.1117,79.1040881,41,W00,0.0,node/2593305386,synthetic bus assignment
+H011,hospital,small,30.0,G. T. Padole Hospital,21.1130302,79.0485919,40,W01,0.0,node/2683203421,synthetic bus assignment
+H012,hospital,small,30.0,Arneja Heart and Multispeciality Hospital,21.1350759,79.0745814,38,W05,0.0,node/2857626554,synthetic bus assignment
+H013,hospital,major,200.0,Orange City Hospital and Research Institute,21.1127672,79.0654015,56,W02,0.0,node/3062460422,synthetic bus assignment
+H014,hospital,small,30.0,Chest Care Clinic,21.1139182,79.066174,58,W02,0.0,node/3062461407,synthetic bus assignment
+H015,hospital,small,30.0,Dhruv Pathology & Molecular,21.1243628,79.0643947,65,W02,0.0,node/3062461484,synthetic bus assignment
+H016,hospital,small,30.0,Oasis Nursing Home,21.1808237,79.0699559,117,W10,0.0,node/3141270006,synthetic bus assignment
+H017,hospital,major,200.0,Mure Memorial Hospital,21.1450006,79.0779338,91,W05,0.0,node/3143169967,synthetic bus assignment
+H018,hospital,small,30.0,Indus Health Care & Checkup Centre,21.1416151,79.0558122,75,W01,0.0,node/3143414657,synthetic bus assignment
+H019,hospital,major,200.0,Railway Hospital,21.1202606,79.0841004,116,W03,0.0,node/3151964482,synthetic bus assignment
+H020,hospital,small,30.0,Advance Dental Clinic,21.1115807,79.0706405,31,W06,0.0,node/3259570374,synthetic bus assignment
+H021,hospital,small,30.0,Narcaood Hospital,21.1321946,79.0594119,21,W01,0.0,node/3259587452,synthetic bus assignment
+H022,hospital,major,200.0,Wockhardt Super Speciality Hospital,21.1364104,79.0650417,74,W01,0.0,node/3259594419,synthetic bus assignment
+H023,hospital,small,30.0,Dr Baraskar Jaiprakash,21.1320113,79.068042,5,W02,0.0,node/3259599209,synthetic bus assignment
+H024,hospital,small,30.0,Avantika Hospital,21.1340474,79.0741784,5,W05,0.0,node/3259601587,synthetic bus assignment
+H025,hospital,small,30.0,"Sushrut Hospital, Nagpur",21.1342574,79.07486,59,W05,0.0,node/3259604661,synthetic bus assignment
+H026,hospital,small,30.0,"Evista Eye Care Centre- Dr.sanjay Jaiswal-m.b.b.s., M.s., in [ophthalmology]",21.1350314,79.080249,58,W05,0.0,node/3259608832,synthetic bus assignment
+H027,hospital,major,200.0,Getwell Hospital and Research Institute,21.1360724,79.0796029,109,W05,0.0,node/3259609584,synthetic bus assignment
+H028,hospital,small,30.0,Mulik Hospital,21.1359274,79.0813129,75,W05,0.0,node/3259617378,synthetic bus assignment
+H029,hospital,small,30.0,Ketki Urological Hospital,21.136975,79.079917,58,W05,0.0,node/3259633595,synthetic bus assignment
+H030,hospital,small,30.0,"Care Hospital, Nagpur",21.1385444,79.079175,58,W05,0.0,node/3259633886,synthetic bus assignment
+H031,hospital,small,30.0,Crescent Hospital & Heart Centre,21.1312485,79.0799527,35,W05,0.0,node/3259651470,synthetic bus assignment
+H032,hospital,small,30.0,Retina Eye Care Hospital,21.1331154,79.0832586,0,W05,0.0,node/3259653612,synthetic bus assignment
+H033,hospital,small,30.0,Shri Krishna Hrudayalaya and Critical Care Centre,21.1310422,79.0821048,28,W05,0.0,node/3259653717,synthetic bus assignment
+H034,hospital,small,30.0,Vasan Eye Care,21.132525,79.0830226,79,W05,0.0,node/3259657598,synthetic bus assignment
+H035,hospital,small,30.0,Baheti (Dr) Mukund,21.1406244,79.0853499,30,W05,0.0,node/3259661617,synthetic bus assignment
+H036,hospital,small,30.0,"Dr B K Murali, Hope Hospitals",21.1411757,79.0852841,50,W05,0.0,node/3259677841,synthetic bus assignment
+H037,hospital,small,30.0,Surelife Hospital,21.1412495,79.0857315,0,W05,0.0,node/3259678924,synthetic bus assignment
+H038,hospital,major,200.0,Cph Centre Point Hospital and Medical Research Institute Pvt. Ltd.,21.1311745,79.0968017,96,W00,0.0,node/3261054160,synthetic bus assignment
+H039,hospital,major,200.0,Indira Gandhi Medical College,21.1491099,79.1159505,19,W09,0.0,node/3261056793,synthetic bus assignment
+H040,hospital,major,200.0,Shri Radhakrishna Hospital and Research Institute,21.1487104,79.1413039,39,W09,0.0,node/3261057938,synthetic bus assignment
+H041,hospital,small,30.0,Asha Hospital,21.2189104,79.1771603,104,W08,0.0,node/3261058612,synthetic bus assignment
+H042,hospital,major,200.0,Central Govt Heath Scheme(CGHS) Clinic,21.1703616,79.064192,58,W10,0.0,node/3261058954,synthetic bus assignment
+H043,hospital,major,200.0,Suraj Eye Institute Om Drishti Trust,21.1691007,79.0835882,98,W10,0.0,node/3261063016,synthetic bus assignment
+H044,hospital,small,30.0,Dr S P Naidu,21.1572734,79.083511,76,W09,0.0,node/3261065664,synthetic bus assignment
+H045,hospital,small,30.0,Sanjeevani Orthopaedic And Paediatric Ho,21.1224065,79.0648229,87,W02,0.0,node/3261070276,synthetic bus assignment
+H046,hospital,small,30.0,Daga Hospital,21.1530884,79.1035724,12,W09,0.0,node/3261071404,synthetic bus assignment
+H047,hospital,major,200.0,Spandan Heart Institute & Research Centre,21.1327178,79.0783876,61,W05,0.0,node/3264660573,synthetic bus assignment
+H048,hospital,major,200.0,Cancer Care Clinic & Hospital,21.1351842,79.0787811,58,W05,0.0,node/3264661241,synthetic bus assignment
+H049,hospital,small,30.0,Dr. Somani Accident Hospital,21.1475579,79.1377417,103,W09,0.0,node/3264668500,synthetic bus assignment
+H050,hospital,small,30.0,East End Hospital,21.147648,79.1383532,48,W09,0.0,node/3264677746,synthetic bus assignment
+H051,hospital,major,200.0,Shri Ram Jeevan Chaudhari Memorial Hospital & Research Center,21.1417766,79.1037462,73,W09,0.0,node/3264727866,synthetic bus assignment
+H052,hospital,small,30.0,,21.1154411,79.0705365,10,W06,0.0,node/3273376463,synthetic bus assignment
+H053,hospital,major,200.0,Sengupta Hospital and Research Institute,21.1478084,79.0558595,53,W01,0.0,node/3274043280,synthetic bus assignment
+H054,hospital,small,30.0,Dr. Dande Hospital,21.1464626,79.0560338,44,W01,0.0,node/3274043761,synthetic bus assignment
+H055,hospital,small,30.0,Paldiwal Hospital And Polyclinic,21.14615,79.0637996,18,W01,0.0,node/3274043856,synthetic bus assignment
+H056,hospital,small,30.0,Mangala Ketkar's,21.1451583,79.0820907,94,W05,0.0,node/3274045649,synthetic bus assignment
+H057,hospital,small,30.0,Bhiwapurkar Eye Hospital,21.1444649,79.0833343,52,W05,0.0,node/3274046986,synthetic bus assignment
+H058,hospital,small,30.0,suretech hospital,21.1418047,79.0842602,115,W05,0.0,node/3274047045,synthetic bus assignment
+H059,hospital,small,30.0,Adil Homeo Heart Care Centre,21.1424351,79.0845779,73,W05,0.0,node/3274047298,synthetic bus assignment
+H060,hospital,small,30.0,VINAYAK NETRALAYA,21.1508876,79.1026519,74,W09,0.0,node/3274052433,synthetic bus assignment
+H061,hospital,small,30.0,Puniyani Hospital for Child and Women Care,21.1496244,79.1084506,76,W09,0.0,node/3274053358,synthetic bus assignment
+H062,hospital,small,30.0,Sahu Hospital,21.1520709,79.1037674,79,W09,0.0,node/3274053671,synthetic bus assignment
+H063,hospital,small,30.0,Chandak Critical Care Hospital & ICCU,21.1495333,79.1128642,18,W09,0.0,node/3274054979,synthetic bus assignment
+H064,hospital,small,30.0,Ace Womens' Hospital,21.1486438,79.1168452,55,W09,0.0,node/3274057374,synthetic bus assignment
+H065,hospital,major,200.0,Dr. Dalvi Memorial Hospital and Research Centre,21.1473515,79.1214913,34,W09,0.0,node/3274058370,synthetic bus assignment
+H066,hospital,small,30.0,Arjun Hospital,21.1472112,79.1390246,53,W09,0.0,node/3274073584,synthetic bus assignment
+H067,hospital,small,30.0,Shyam Medicals,21.1482671,79.1348921,13,W09,0.0,node/3274074762,synthetic bus assignment
+H068,hospital,small,30.0,Sawarkar Hospital,21.1455439,79.1329861,115,W09,0.0,node/3274074828,synthetic bus assignment
+H069,hospital,small,30.0,East End Hospital,21.1477429,79.1444081,31,W09,0.0,node/3274081091,synthetic bus assignment
+H070,hospital,small,30.0,"Sanjeevani Hospital, Nagpur",21.0917212,79.0770014,79,W06,0.0,node/3274089461,synthetic bus assignment
+H071,hospital,small,30.0,Roy Nursing Home,21.1002572,79.0669266,41,W06,0.0,node/3274090662,synthetic bus assignment
+H072,hospital,small,30.0,Dharmadhikari Hospital,21.1145482,79.0721111,103,W06,0.0,node/3274090950,synthetic bus assignment
+H073,hospital,small,30.0,Mahatma Eye Bank and Hospital,21.1113508,79.0689893,78,W06,0.0,node/3274091465,synthetic bus assignment
+H074,hospital,small,30.0,Galaxy Vidarbha Diagnostics Pvt. Ltd.,21.1355692,79.0781259,17,W05,0.0,node/3276017197,synthetic bus assignment
+H075,hospital,small,30.0,Anjani Eye Hospital,21.1349883,79.0771381,98,W05,0.0,node/3276019764,synthetic bus assignment
+H076,hospital,small,30.0,Dr Sushil Rathi (Anika Clinic),21.1348631,79.0764497,115,W05,0.0,node/3276030036,synthetic bus assignment
+H077,hospital,small,30.0,Subramaniam Hospital,21.1343966,79.0769499,106,W05,0.0,node/3276032529,synthetic bus assignment
+H078,hospital,small,30.0,Ganju Haematology Clinic and Hospital,21.1340373,79.0755846,69,W05,0.0,node/3276034689,synthetic bus assignment
+H079,hospital,small,30.0,"GI , Endoscopy and Liver clinic.SMP Hospital Dr Samir Patil",21.1345668,79.0756928,18,W05,0.0,node/3276037226,synthetic bus assignment
+H080,hospital,small,30.0,Aditya Hospital Critical Care and Emergency Center,21.1336905,79.0745505,28,W05,0.0,node/3276045262,synthetic bus assignment
+H081,hospital,small,30.0,Netranjali Centre For Advanced Eye Care,21.1337221,79.073388,111,W05,0.0,node/3276055621,synthetic bus assignment
+H082,hospital,small,30.0,Baraskar Multispeciality Hospital and Dialysis,21.132906,79.0708446,65,W05,0.0,node/3276063023,synthetic bus assignment
+H083,hospital,small,30.0,Crescent Nursing Home and Iccu,21.1341811,79.078904,26,W05,0.0,node/3276074105,synthetic bus assignment
+H084,hospital,small,30.0,KRIMS Hospital,21.1331799,79.0717727,104,W05,0.0,node/3276075300,synthetic bus assignment
+H085,hospital,major,200.0,Meditrina Institute Of Medical Sciences,21.1328773,79.0707792,76,W05,0.0,node/3276081461,synthetic bus assignment
+H086,hospital,small,30.0,Deshmane Hospital,21.1363446,79.0790181,69,W05,0.0,node/3276084622,synthetic bus assignment
+H087,hospital,small,30.0,Nagpur Chest Center,21.1336653,79.0784165,51,W05,0.0,node/3276089266,synthetic bus assignment
+H088,hospital,small,30.0,Shree Child Clinic,21.1363635,79.0799981,54,W05,0.0,node/3276100493,synthetic bus assignment
+H089,hospital,small,30.0,Navjeevan Nursing Home,21.1359978,79.0798764,34,W05,0.0,node/3276100561,synthetic bus assignment
+H090,hospital,small,30.0,Jasleen Eye Hospital - Nagpur,21.1380687,79.0796792,5,W05,0.0,node/3276101774,synthetic bus assignment
+H091,hospital,major,200.0,Pande Memorial Hospital,21.1343817,79.0822989,103,W05,0.0,node/3276105912,synthetic bus assignment
+H092,hospital,small,30.0,WE PLUS OPTICALS,21.1385209,79.0833269,58,W05,0.0,node/3276107113,synthetic bus assignment
+H093,hospital,small,30.0,Dr. Anand Pangarkar's Eye Hospital,21.1368385,79.0693717,61,W05,0.0,node/3276113957,synthetic bus assignment
+H094,hospital,major,200.0,Wockhardt Super Speciality Hospital,21.1368952,79.0669225,44,W01,0.0,node/3276115991,synthetic bus assignment
+H095,hospital,small,30.0,Cure It Hospital Pvt.Ltd,21.112629,79.1296817,89,W04,0.0,node/3276128104,synthetic bus assignment
+H096,hospital,small,30.0,Kherde Hospital,21.1178889,79.1134088,2,W04,0.0,node/3900779783,synthetic bus assignment
+H097,hospital,small,30.0,Kamble Hospital,21.1176102,79.1061774,50,W00,0.0,node/3963888182,synthetic bus assignment
+H098,hospital,small,30.0,Sahu Hospital,21.1220676,79.1051559,3,W00,0.0,node/3972885657,synthetic bus assignment
+H099,hospital,small,30.0,Health Unit Ajni,21.125901,79.0902296,15,W03,0.0,node/3972929460,synthetic bus assignment
+H100,hospital,small,30.0,Asha Homeopathic Hospital,21.1078896,79.1034883,115,W04,0.0,node/3978219970,synthetic bus assignment
+H101,hospital,small,30.0,Sarita Homeopathic Hospital,21.1081135,79.1035441,77,W04,0.0,node/3978219978,synthetic bus assignment
+H102,hospital,small,30.0,Belsare Children's Hospital,21.1155098,79.1041162,55,W00,0.0,node/3979328316,synthetic bus assignment
+H103,hospital,major,200.0,Chikhle Multi Speciality and Cancer Hospital,21.1150264,79.1039294,59,W00,0.0,node/3979328318,synthetic bus assignment
+H104,hospital,small,30.0,Deerghayu Ayurved Panchakarma Chikitsalaya,21.1119271,79.1037492,103,W00,0.0,node/3979328319,synthetic bus assignment
+H105,hospital,small,30.0,Prasuti ani Stree Rog Clinic,21.1123494,79.1041366,47,W00,0.0,node/3979328341,synthetic bus assignment
+H106,hospital,small,30.0,Sangam Orthopedic and General Hospital,21.115007,79.1045225,73,W00,0.0,node/3979328347,synthetic bus assignment
+H107,hospital,small,30.0,Shambharkar Hospital,21.1094225,79.1037401,79,W04,0.0,node/3979328350,synthetic bus assignment
+H108,hospital,small,30.0,Shree Sai Homeopathic Hospital,21.1087631,79.1036843,48,W04,0.0,node/3979328354,synthetic bus assignment
+H109,hospital,small,30.0,Singare Eye Hospital,21.115658,79.1044239,59,W00,0.0,node/3979328355,synthetic bus assignment
+H110,hospital,small,30.0,Vivekananda Health Care and Yoga Centre,21.1137614,79.1040123,89,W00,0.0,node/3979329563,synthetic bus assignment
+H111,hospital,small,30.0,Mukherjee Multispeciality Hospital,21.1244349,79.1175873,108,W04,0.0,node/4352782205,synthetic bus assignment
+H112,hospital,small,30.0,Prestige Hospitals Pvt Ltd,21.1689967,79.0790495,18,W10,0.0,node/4421880347,synthetic bus assignment
+H113,hospital,small,30.0,Kurvey Hospital,21.1300097,79.1133196,111,W00,0.0,node/4435892105,synthetic bus assignment
+H114,hospital,small,30.0,Choudhary Hospital,21.2139113,79.2020305,0,W08,0.0,node/4494249433,synthetic bus assignment
+H115,hospital,small,30.0,,21.1291174,79.0957023,89,W00,0.0,node/4534460691,synthetic bus assignment
+H116,hospital,small,30.0,,21.1496662,79.1215,94,W09,0.0,node/4539123693,synthetic bus assignment
+H117,hospital,small,30.0,,21.1322555,79.1155909,17,W00,0.0,node/4574596092,synthetic bus assignment
+H118,hospital,small,30.0,,21.1480127,79.0789312,54,W05,0.0,node/4977256995,synthetic bus assignment
+H119,hospital,small,30.0,,21.134479,79.0802081,94,W05,0.0,node/5042266733,synthetic bus assignment
+H120,hospital,small,30.0,,21.1345925,79.0802644,1,W05,0.0,node/5042266734,synthetic bus assignment
+H121,hospital,small,30.0,Happy Pharmacy,21.133975,79.0614898,75,W01,0.0,node/5112209478,synthetic bus assignment
+H122,hospital,small,30.0,Lifeline Hospital,21.2101981,79.1872296,91,W08,0.0,node/6225367304,synthetic bus assignment
+H123,hospital,small,30.0,H H Nagani Hospital,21.2086202,79.1833377,58,W08,0.0,node/6225367308,synthetic bus assignment
+H124,hospital,small,30.0,Bhilgaon's Multispeciality Clinic,21.1960576,79.143993,84,W08,0.0,node/6227566300,synthetic bus assignment
+H125,hospital,major,200.0,Samarpan Hospital and Research Institute,21.1697967,79.1162235,33,W09,0.0,node/6249168311,synthetic bus assignment
+H126,hospital,small,30.0,Balwaik Multi Speciality Hospital,21.1326243,79.0992759,30,W00,0.0,node/6249232217,synthetic bus assignment
+H127,hospital,small,30.0,Niramaya Hospital,21.1340305,79.1008675,48,W00,0.0,node/6249232326,synthetic bus assignment
+H128,hospital,small,30.0,ESIS Hospital,21.1271894,79.1061206,26,W00,0.0,node/6873133686,synthetic bus assignment
+H129,hospital,small,30.0,,21.1353798,79.0770473,48,W05,0.0,node/6930648689,synthetic bus assignment
+H130,hospital,small,30.0,Khalatkar Hospital,21.1304764,79.110918,115,W00,0.0,node/7041042243,synthetic bus assignment
+H131,hospital,small,30.0,Medicare Multi Speciality Hospital,21.185117,79.0792572,69,W10,0.0,node/7041049135,synthetic bus assignment
+H132,hospital,small,30.0,Sawarbandhe Multispeciality Hospital,21.1300825,79.1156621,47,W00,0.0,node/7042936001,synthetic bus assignment
+H133,hospital,small,30.0,Roy Hospital,21.2145602,79.198059,39,W08,0.0,node/7042981401,synthetic bus assignment
+H134,hospital,small,30.0,Tikhile Maternity and Nursing Home,21.1519006,79.1493216,115,W09,0.0,node/7043041319,synthetic bus assignment
+H135,hospital,small,30.0,Diabetes Care and Research Centre,21.136316,79.0718201,56,W05,0.0,node/7043098839,synthetic bus assignment
+H136,hospital,major,200.0,Central Neurological Institute,21.1351361,79.0623151,115,W01,0.0,node/7043098844,synthetic bus assignment
+H137,hospital,small,30.0,Karandikar Maternity and Nursing Home,21.1126679,79.0641685,59,W02,0.0,node/7043117206,synthetic bus assignment
+H138,hospital,major,200.0,Kamal Institute Of andro-Urology,21.1355715,79.0682983,59,W05,0.0,node/7043117223,synthetic bus assignment
+H139,hospital,small,30.0,"Zenith Hospital, Nagpur",21.1357586,79.0574365,106,W01,0.0,node/7043117228,synthetic bus assignment
+H140,hospital,major,200.0,Dr Kg Deshpande Memorial Centre,21.1406274,79.0569913,87,W01,0.0,node/7043117233,synthetic bus assignment
+H141,hospital,small,30.0,Laser Vision Centre,21.1337488,79.073463,69,W05,0.0,node/7043230041,synthetic bus assignment
+H142,hospital,major,200.0,Ganeshrao Kanphade Memorial Hospital,21.1350623,79.0757865,55,W05,0.0,node/7043284028,synthetic bus assignment
+H143,hospital,small,30.0,Ganeriwal Hospital,21.1126846,79.114299,103,W04,0.0,node/7043349115,synthetic bus assignment
+H144,hospital,small,30.0,ACE Women's Hospital,21.1487614,79.1156012,54,W09,0.0,node/7043394544,synthetic bus assignment
+H145,hospital,small,30.0,Radiance Hospital,21.1497276,79.1152176,111,W09,0.0,node/7043397907,synthetic bus assignment
+H146,hospital,small,30.0,Desai Children and Surgical Hospital,21.1167525,79.0694518,10,W02,0.0,node/7043526061,synthetic bus assignment
+H147,hospital,small,30.0,Sawali Ortho Hospital,21.1395091,79.0626004,55,W01,0.0,node/7043578011,synthetic bus assignment
+H148,hospital,small,30.0,Chaitanya Maternity Home and Endoscopy Center,21.1387117,79.0600681,59,W01,0.0,node/7043757655,synthetic bus assignment
+H149,hospital,small,30.0,Mother Care Nursing Home,21.1339827,79.0754941,115,W05,0.0,node/7044273943,synthetic bus assignment
+H150,hospital,small,30.0,Shrikhande Hospital and Research Center Pvt. Ltd.,21.1309161,79.0803355,35,W05,0.0,node/7044392681,synthetic bus assignment
+H151,hospital,small,30.0,"Kothari Hospital, Nagpur",21.1143604,79.0714782,93,W06,0.0,node/7044508385,synthetic bus assignment
+H152,hospital,small,30.0,Prestos Madan Multispeciality Hospital,21.1699581,79.1010797,79,W09,0.0,node/7044542301,synthetic bus assignment
+H153,hospital,small,30.0,"Rathi Hospital, Nagpur",21.1397243,79.0601619,82,W01,0.0,node/7044561554,synthetic bus assignment
+H154,hospital,major,200.0,Upcharya Institute Of Orthopaedic Surgery and Trauma Care Center,21.1517482,79.1000685,75,W09,0.0,node/7044993481,synthetic bus assignment
+H155,hospital,small,30.0,Badjates Hospital,21.1115774,79.0570016,115,W02,0.0,node/7045292104,synthetic bus assignment
+H156,hospital,major,200.0,Central India Cancer Research Institute,21.1330665,79.0619201,46,W01,0.0,node/7045516010,synthetic bus assignment
+H157,hospital,small,30.0,Aharnish Hospital,21.1732827,79.1174519,53,W09,0.0,node/7045681877,synthetic bus assignment
+H158,hospital,major,200.0,Brijmohan Taori Memorial Hospital,21.1382257,79.0810543,30,W05,0.0,node/7045705317,synthetic bus assignment
+H159,hospital,small,30.0,Dr V E Tambe Critical Care Unit,21.1146763,79.0715928,6,W06,0.0,node/7045823782,synthetic bus assignment
+H160,hospital,small,30.0,Chaturvedi Surgical Hospital,21.1336181,79.0743354,31,W05,0.0,node/7045980528,synthetic bus assignment
+H161,hospital,small,30.0,Ortho Relief Hospital and Research Centre,21.1309643,79.0799238,109,W05,0.0,node/7046706669,synthetic bus assignment
+H162,hospital,small,30.0,"Green City Hospital, Nagpur",21.1679533,79.078694,98,W10,0.0,node/7047616718,synthetic bus assignment
+H163,hospital,small,30.0,Gurunanak Eye Hospital,21.171999,79.0985531,14,W09,0.0,node/7047889343,synthetic bus assignment
+H164,hospital,small,30.0,Janta Maternity Home and Hospital,21.1803051,79.0922177,74,W10,0.0,node/7047910819,synthetic bus assignment
+H165,hospital,major,200.0,G Kumar Arogyadham Ayurved Panchkarm Hospital and Research Institute,21.1876042,79.0887107,58,W10,0.0,node/7047912851,synthetic bus assignment
+H166,hospital,small,30.0,Avadh Clinic and Nursing Home,21.1831475,79.0631036,73,W10,0.0,node/7047919804,synthetic bus assignment
+H167,hospital,small,30.0,Naidu Hospital,21.1597766,79.0830566,77,W09,0.0,node/7047927397,synthetic bus assignment
+H168,hospital,small,30.0,Sawarkar Multi Speciality Hospital,21.1463587,79.1018361,42,W09,0.0,node/7047927498,synthetic bus assignment
+H169,hospital,small,30.0,Dr Sawarkars Multi Speciality Clinical Care Hospital,21.1436607,79.1065662,115,W09,0.0,node/7047933913,synthetic bus assignment
+H170,hospital,small,30.0,Patil Hospital,21.1388574,79.1035044,58,W09,0.0,node/7047934011,synthetic bus assignment
+H171,hospital,small,30.0,Dr Gaikwad Critical Care Center Private Limited,21.1301912,79.1113257,75,W00,0.0,node/7047961785,synthetic bus assignment
+H172,hospital,small,30.0,Samadhan Hospital(Ayurved Panchakarma Hospital and Research Centre),21.1338409,79.1175111,76,W09,0.0,node/7047962801,synthetic bus assignment
+H173,hospital,small,30.0,Dhawale Hospital,21.106927,79.0685955,27,W06,0.0,node/7048433641,synthetic bus assignment
+H174,hospital,small,30.0,RNH Hospital,21.1334311,79.0830888,10,W05,0.0,node/7048433657,synthetic bus assignment
+H175,hospital,small,30.0,Maxcare Hospital,21.1065861,79.0821091,54,W06,0.0,node/7048433663,synthetic bus assignment
+H176,hospital,small,30.0,Abhinav Multispeciality Hospital,21.1681359,79.1010616,89,W09,0.0,node/7048918102,synthetic bus assignment
+H177,hospital,small,30.0,Gandhi Maternity and Nursing Home,21.1113791,79.0488826,94,W01,0.0,node/7048992419,synthetic bus assignment
+H178,hospital,small,30.0,Genesis Hospital & Research Centre,21.1351992,79.0786155,85,W05,0.0,node/7049021444,synthetic bus assignment
+H179,hospital,small,30.0,Mulik Hospital,21.1340553,79.0810074,14,W05,0.0,node/7049213696,synthetic bus assignment
+H180,hospital,small,30.0,Sparsh Urology and Kidney Hospital,21.1340928,79.082099,109,W05,0.0,node/7049228374,synthetic bus assignment
+H181,hospital,small,30.0,Shanti Mohan Hospital,21.159599,79.0778571,93,W09,0.0,node/7049832752,synthetic bus assignment
+H182,hospital,small,30.0,Gb Multicare Hospital,21.1324529,79.0516412,103,W01,0.0,node/7049843692,synthetic bus assignment
+H183,hospital,small,30.0,Sood Eye Hospital,21.1344568,79.0770029,59,W05,0.0,node/7050410353,synthetic bus assignment
+H184,hospital,small,30.0,Soni Hospital,21.1336675,79.0743783,109,W05,0.0,node/7050450788,synthetic bus assignment
+H185,hospital,small,30.0,Waghralkar Ayurved Hospital,21.1162977,79.0738526,5,W06,0.0,node/7050485736,synthetic bus assignment
+H186,hospital,major,200.0,Shanta Spine Institute,21.1341579,79.0741114,3,W05,0.0,node/7050614316,synthetic bus assignment
+H187,hospital,small,30.0,Mogre Hospital,21.1257386,79.1159594,2,W04,0.0,node/7050785156,synthetic bus assignment
+H188,hospital,small,30.0,Kubde Children Hospital and Premature Baby Unit,21.1503124,79.1502111,38,W09,0.0,node/7051342877,synthetic bus assignment
+H189,hospital,small,30.0,Jeswani Multispeciality Hospital,21.1538101,79.1042038,35,W09,0.0,node/7052034502,synthetic bus assignment
+H190,hospital,major,200.0,Late Dr Anjani Mokadam Memorial Charitable Trust Anjani Eye Hospital,21.1351079,79.0771229,28,W05,0.0,node/7052143993,synthetic bus assignment
+H191,hospital,small,30.0,Mahajan Ortho and Surgical Hospital,21.1342054,79.0819046,66,W05,0.0,node/7052735609,synthetic bus assignment
+H192,hospital,major,200.0,Midas Institute Of Gastroenterology,21.134029,79.0755089,5,W05,0.0,node/7052963440,synthetic bus assignment
+H193,hospital,small,30.0,Dr. Mangala Ketkar,21.1454099,79.0818463,73,W05,0.0,node/7052963452,synthetic bus assignment
+H194,hospital,small,30.0,Central Avenue Critical Care Hospital and Icu,21.1497345,79.1119628,23,W09,0.0,node/7053870879,synthetic bus assignment
+H195,hospital,small,30.0,"Mauli Hospital, Nagpur",21.1685836,79.079036,79,W10,0.0,node/7053882311,synthetic bus assignment
+H196,hospital,small,30.0,Shubham Diabetic and Medical Centre,21.1731014,79.0409955,2,W11,0.0,node/7054236297,synthetic bus assignment
+H197,hospital,small,30.0,Columbia Hospital and Research Centre - Nagpur,21.1335731,79.0823948,43,W05,0.0,node/7054404979,synthetic bus assignment
+H198,hospital,small,30.0,Dr Gadge's-Om Surgical Hospital and Trauma Centre,21.1430847,79.0612985,113,W01,0.0,node/7054956599,synthetic bus assignment
+H199,hospital,small,30.0,Littles Care Children Hospital,21.17286,79.1000739,61,W09,0.0,node/7054989466,synthetic bus assignment
+H200,hospital,major,200.0,Chikhale Multispeciality and Cancer Hospital,21.0961331,79.1050782,94,W04,0.0,node/7055008167,synthetic bus assignment
+H201,hospital,small,30.0,"Mamta Hospital, Nagpur",21.0937883,79.0652119,77,W06,0.0,node/7055502667,synthetic bus assignment
+H202,hospital,small,30.0,Mahatme Eye Bank Eye Hospital,21.1018355,79.0650755,74,W06,0.0,node/7062356500,synthetic bus assignment
+H203,hospital,small,30.0,Shri Vyankatesh Multispeciality Hospital,21.1151441,79.0566264,28,W02,0.0,node/7062497097,synthetic bus assignment
+H204,hospital,major,200.0,Golhar Spine Care and Trauma Reaserch Institute,21.1348474,79.0692241,69,W05,0.0,node/7062712068,synthetic bus assignment
+H205,hospital,small,30.0,Dhokey Hospital,21.1250135,79.1167586,5,W04,0.0,node/7063808900,synthetic bus assignment
+H206,hospital,small,30.0,"Kothalkar Ent, Maternity and Surgical Nursing Home",21.1292993,79.1125435,92,W00,0.0,node/7063899547,synthetic bus assignment
+H207,hospital,small,30.0,Gillurkar Multispeciality Hospital,21.1315222,79.1096624,115,W00,0.0,node/7063899558,synthetic bus assignment
+H208,hospital,small,30.0,Suretech Hospital and Research Centre,21.1372887,79.0800371,99,W05,0.0,node/7063909930,synthetic bus assignment
+H209,hospital,small,30.0,Meher Nursing and Maternity Home,21.1389312,79.0604992,6,W01,0.0,node/7064155893,synthetic bus assignment
+H210,hospital,small,30.0,Tajkrupa Hospital,21.1796663,79.0426748,46,W11,0.0,node/7064657537,synthetic bus assignment
+H211,hospital,small,30.0,Ashwini Kidney and Dialysis Centre,21.1350222,79.0771571,44,W05,0.0,node/7064893613,synthetic bus assignment
+H212,hospital,major,200.0,Dr. V.M. Deo Memorial Hospital,21.1353612,79.0551938,14,W01,0.0,node/7064941920,synthetic bus assignment
+H213,hospital,small,30.0,Baheti Hospital,21.1346645,79.0794256,75,W05,0.0,node/7065561579,synthetic bus assignment
+H214,hospital,major,200.0,G.T. Memorial Hospital and Icu,21.1083245,79.0616861,91,W02,0.0,node/7065865225,synthetic bus assignment
+H215,hospital,small,30.0,Shushrusha Ortho and Spine Care Hospital,21.1191,79.0727676,44,W02,0.0,node/7065899068,synthetic bus assignment
+H216,hospital,small,30.0,Arihant Surgical and Maternity Hospital,21.1529621,79.1042722,100,W09,0.0,node/7066374671,synthetic bus assignment
+H217,hospital,small,30.0,Platina Heart Hospital,21.140486,79.0854666,91,W05,0.0,node/7066374737,synthetic bus assignment
+H218,hospital,small,30.0,"Prabhat Hospital, Nagpur",21.2183208,79.1980241,17,W08,0.0,node/7066374808,synthetic bus assignment
+H219,hospital,small,30.0,Rahate Surgical Hospital,21.149186,79.1163482,89,W09,0.0,node/7066374813,synthetic bus assignment
+H220,hospital,small,30.0,Sreeprabha Othopaedic and Trauma Hospital / Shreeprabha Ortho and Accident Hospital,21.1142128,79.0542973,104,W02,0.0,node/7066505718,synthetic bus assignment
+H221,hospital,small,30.0,Venkateswara Netralaya and Research Inst.,21.1387549,79.0600781,30,W01,0.0,node/7066505742,synthetic bus assignment
+H222,hospital,major,200.0,Shree Ramjiwan Choudhary Memorial Hospital and Research Centre,21.1403119,79.1022438,69,W09,0.0,node/7067113578,synthetic bus assignment
+H223,hospital,small,30.0,Harsha Childrens Hospital and Maternity Home,21.1389631,79.0605737,76,W01,0.0,node/7067113595,synthetic bus assignment
+H224,hospital,major,200.0,Kalamkar Multi Speciality Hospital and Research Institute Pvt Ltd,21.1377492,79.0789005,74,W05,0.0,node/7068429394,synthetic bus assignment
+H225,hospital,small,30.0,Rughwani Child Care Centre and Hospital,21.1824485,79.0931793,13,W10,0.0,node/7069790977,synthetic bus assignment
+H226,hospital,small,30.0,Dharmadhikari Hospital,21.1140033,79.0721387,77,W06,0.0,node/7069814016,synthetic bus assignment
+H227,hospital,major,200.0,Asha Hospital (Asha Institute Of Medical Sciences and Research Centre),21.2185295,79.1772041,76,W08,0.0,node/7069927138,synthetic bus assignment
+H228,hospital,small,30.0,Shiv Ganga Hospital and Critical Care Centre,21.1343905,79.0789475,95,W05,0.0,node/7070250997,synthetic bus assignment
+H229,hospital,small,30.0,Dr. Uddanwadikar Maternity and Eye Hospital,21.1420996,79.0625967,93,W01,0.0,node/7072544602,synthetic bus assignment
+H230,hospital,small,30.0,Khidmat Charitable Hospital and Research Centre,21.1594502,79.1216214,45,W09,0.0,node/7072544669,synthetic bus assignment
+H231,hospital,small,30.0,Saboo Hospital,21.1492842,79.1125066,84,W09,0.0,node/7072999696,synthetic bus assignment
+H232,hospital,small,30.0,Sparsh Clinics,21.1457408,79.0611362,102,W01,0.0,node/7073765591,synthetic bus assignment
+H233,hospital,small,30.0,Anantwar Eye Hospital,21.1889909,79.1028795,105,W09,0.0,node/7073879402,synthetic bus assignment
+H234,hospital,small,30.0,Shat Ayu Critical Care Polytrauma Centre and Multispeciality Hospital,21.1331934,79.0780275,21,W05,0.0,node/7073949839,synthetic bus assignment
+H235,hospital,major,200.0,Suraj Eye Institute - Nagpur,21.170971,79.0842837,3,W10,0.0,node/7073949851,synthetic bus assignment
+H236,hospital,small,30.0,Sarakshi Netralaya,21.1029083,79.0676889,77,W06,0.0,node/7073949857,synthetic bus assignment
+H237,hospital,major,200.0,Avanti Institute Of Cardiology,21.13199,79.0806694,31,W05,0.0,node/7073961688,synthetic bus assignment
+H238,hospital,small,30.0,Lotus Hospitaland Research Centre and Maternity Home,21.1300424,79.1156374,66,W00,0.0,node/7074541552,synthetic bus assignment
+H239,hospital,small,30.0,"Sankalp Maternity Hospital, Nagpur",21.1398562,79.0635395,115,W01,0.0,node/7074541565,synthetic bus assignment
+H240,hospital,small,30.0,Gandhi Hospital,21.1378492,79.0784231,52,W05,0.0,node/7076374565,synthetic bus assignment
+H241,hospital,small,30.0,Hope Multispeciality Hospital and Research Centre,21.2171518,79.2027609,38,W08,0.0,node/7076529368,synthetic bus assignment
+H242,hospital,small,30.0,Mukerji Nursing Home and Research Centre,21.1732546,79.100786,58,W09,0.0,node/7076557568,synthetic bus assignment
+H243,hospital,small,30.0,Ambade Eye Hospital,21.1731771,79.1008303,77,W09,0.0,node/7076566995,synthetic bus assignment
+H244,hospital,small,30.0,Rajgire Hospital,21.1306606,79.1180256,14,W04,0.0,node/7077739387,synthetic bus assignment
+H245,hospital,small,30.0,Rajan Neonatal Care Unit,21.1356908,79.0765931,52,W05,0.0,node/7079640584,synthetic bus assignment
+H246,hospital,small,30.0,"Vyas Hospital, Gandhibagh",21.1543273,79.1058527,17,W09,0.0,node/7079665735,synthetic bus assignment
+H247,hospital,small,30.0,Deoghare Hospital,21.1307648,79.0983157,78,W00,0.0,node/7080141270,synthetic bus assignment
+H248,hospital,small,30.0,Suprathet Hospital,21.1386285,79.0799533,96,W05,0.0,node/7080205253,synthetic bus assignment
+H249,hospital,small,30.0,Anuradha Back Pain and Endoscopic Spinal Surgery Centre,21.1487226,79.1242875,51,W09,0.0,node/7080269629,synthetic bus assignment
+H250,hospital,small,30.0,Krims Apollo Hospital,21.1328507,79.0704462,50,W05,0.0,node/7081227376,synthetic bus assignment
+H251,hospital,small,30.0,Gananam Surgical and Maternity Home,21.1340716,79.0741584,61,W05,0.0,node/7082370191,synthetic bus assignment
+H252,hospital,small,30.0,Matru Sewa Sangh,21.1367904,79.0632968,31,W01,0.0,node/7082370261,synthetic bus assignment
+H253,hospital,small,30.0,Shree Hospitals and Critical Care Centre,21.1258567,79.1167384,35,W04,0.0,node/7082738947,synthetic bus assignment
+H254,hospital,small,30.0,Marathe Child Care Hospital,21.132947,79.070752,45,W05,0.0,node/7083272480,synthetic bus assignment
+H255,hospital,small,30.0,Junankar Surgical Nursing Home,21.1229494,79.0571424,58,W01,0.0,node/7085422810,synthetic bus assignment
+H256,hospital,small,30.0,Green City Multispeciality Hospital,21.1296767,79.1145059,11,W00,0.0,node/7085731336,synthetic bus assignment
+H257,hospital,small,30.0,"Keshav Hospital, Nagpur",21.1048151,79.1034655,89,W04,0.0,node/7085742099,synthetic bus assignment
+H258,hospital,small,30.0,Akruti Hospital,21.1182656,79.0329489,69,W01,0.0,node/7085742171,synthetic bus assignment
+H259,hospital,small,30.0,Asha Maternity Children's Hospital,21.1502736,78.9947489,41,W11,0.0,node/7085878697,synthetic bus assignment
+H260,hospital,small,30.0,Hadi Children Hospital,21.1566605,79.097733,11,W09,0.0,node/7086532338,synthetic bus assignment
+H261,hospital,small,30.0,Mother and Child Care Hospital,21.1252581,79.1174231,89,W04,0.0,node/7086532371,synthetic bus assignment
+H262,hospital,small,30.0,Sunflower Hospitals,21.1362178,79.0686049,17,W05,0.0,node/7086558492,synthetic bus assignment
+H263,hospital,small,30.0,Dashputra Hospital,21.1291592,79.1144277,17,W00,0.0,node/7087131453,synthetic bus assignment
+H264,hospital,small,30.0,Mahajan Children Hospital,21.1375455,79.0804095,17,W05,0.0,node/7210907275,synthetic bus assignment
+H265,hospital,small,30.0,Dorlikar Orthopaedic bone Hospital,21.1566836,79.1032447,11,W09,0.0,node/7210920507,synthetic bus assignment
+H266,hospital,small,30.0,Faheem Qureshi Hospital,21.1565637,79.1013995,106,W09,0.0,node/7210920512,synthetic bus assignment
+H267,hospital,small,30.0,"Dr. Alankar A Ramteke, Arthritis & Joint Replacement Clinic",21.1345018,79.0755145,39,W05,0.0,node/7210920517,synthetic bus assignment
+H268,hospital,small,30.0,Bodhankar Childrens Hospital,21.1337848,79.0747858,42,W05,0.0,node/7210920522,synthetic bus assignment
+H269,hospital,small,30.0,Torney Maternity And Laparoscopy Hospital,21.1259103,79.0634899,97,W02,0.0,node/7210950205,synthetic bus assignment
+H270,hospital,small,30.0,Rural Hospital Hingana,21.074906,78.95416,75,W07,0.0,node/7226796627,synthetic bus assignment
+H271,hospital,major,200.0,Indira Gandhi Government Medical College and Hospital,21.15405,79.094649,27,W09,0.0,node/7226796631,synthetic bus assignment
+H272,hospital,major,200.0,Super speciality Hospital,21.119365,79.129212,55,W04,0.0,node/7226796638,synthetic bus assignment
+H273,hospital,small,30.0,"Isolation Hospital Imamwada, Nagpur",21.13521,79.090839,104,W03,0.0,node/7226796683,synthetic bus assignment
+H274,hospital,small,30.0,"SDH, Kamptee",21.2139197,79.1990031,51,W08,0.0,node/7226989681,synthetic bus assignment
+H275,hospital,small,30.0,"Dr. Babasaheb Ambedkar Hospital and Research Centre, Nagpur",21.1755377,79.1024618,81,W09,0.0,node/7226989739,synthetic bus assignment
+H276,hospital,small,30.0,Rathi Hospital,21.2146505,79.1978246,13,W08,0.0,node/7628156061,synthetic bus assignment
+H277,hospital,small,30.0,Barade Nursing Home,21.2087879,79.0657403,85,W10,0.0,node/7628156063,synthetic bus assignment
+H278,hospital,small,30.0,Mahagenco Hospital,21.23745,79.0835488,89,W10,0.0,node/7628156070,synthetic bus assignment
+H279,hospital,small,30.0,Kazmi Nursing Home,21.2165973,79.1933812,95,W08,0.0,node/7628156072,synthetic bus assignment
+H280,hospital,small,30.0,Sanjeevani Multispeciality Hospital,21.211403,79.0644769,79,W10,0.0,node/7628156078,synthetic bus assignment
+H281,hospital,small,30.0,Mehta Hospital,21.2158795,79.1907628,50,W08,0.0,node/7628156084,synthetic bus assignment
+H282,hospital,small,30.0,Titarmare Hospital,21.231689,79.0863977,10,W10,0.0,node/7628156112,synthetic bus assignment
+H283,hospital,small,30.0,Mahure Hospital,21.2146906,79.2017327,59,W08,0.0,node/7628156116,synthetic bus assignment
+H284,hospital,small,30.0,Relief Hospital,21.2182705,79.1900692,89,W08,0.0,node/7628156132,synthetic bus assignment
+H285,hospital,small,30.0,Cantonment Board Hospital,21.223652,79.196447,28,W08,0.0,node/7628156133,synthetic bus assignment
+H286,hospital,small,30.0,Life Line Hospital,21.2084852,79.1832714,39,W08,0.0,node/7628156139,synthetic bus assignment
+H287,hospital,small,30.0,Mujawar Nursing Home,21.1855423,79.0699354,61,W10,0.0,node/7629203212,synthetic bus assignment
+H288,hospital,small,30.0,Jamshed Ji Tata Municipal Hospital,21.1727983,79.0914599,89,W09,0.0,node/7629203213,synthetic bus assignment
+H289,hospital,small,30.0,Parlewar Hospital,21.172099,79.1010707,106,W09,0.0,node/7629203214,synthetic bus assignment
+H290,hospital,small,30.0,Dik Hospital,21.144979,79.083428,16,W05,0.0,node/7629203215,synthetic bus assignment
+H291,hospital,small,30.0,Kingsway Hospitals,21.154584,79.0848019,27,W09,0.0,node/7629203216,synthetic bus assignment
+H292,hospital,small,30.0,Yadav Multispeciality Hospital,21.152421,79.096272,92,W09,0.0,node/7629203218,synthetic bus assignment
+H293,hospital,small,30.0,Dr. Wahane Nursing Home,21.164788,79.096779,77,W09,0.0,node/7629203219,synthetic bus assignment
+H294,hospital,small,30.0,Heart Hospital,21.1311587,79.0814864,83,W05,0.0,node/7629203220,synthetic bus assignment
+H295,hospital,small,30.0,Metro Multi Speciality Hospital,21.169052,79.0790331,117,W10,0.0,node/7629203222,synthetic bus assignment
+H296,hospital,small,30.0,Nalin Hospital,21.1734185,79.0940751,114,W09,0.0,node/7629203223,synthetic bus assignment
+H297,hospital,small,30.0,Osmania Nursing Home,21.183289,79.0623556,98,W10,0.0,node/7629203225,synthetic bus assignment
+H298,hospital,small,30.0,Green City Hospital,21.137428,79.084511,89,W05,0.0,node/7629203227,synthetic bus assignment
+H299,hospital,small,30.0,VIMS Hospital,21.1576155,79.0824063,53,W09,0.0,node/7629203228,synthetic bus assignment
+H300,hospital,small,30.0,Life Line Hospital,21.164649,79.0972288,76,W09,0.0,node/7629203230,synthetic bus assignment
+H301,hospital,small,30.0,Dapke Children Hospital,21.172195,79.097981,27,W09,0.0,node/7629203232,synthetic bus assignment
+H302,hospital,small,30.0,Multani Hospital,21.158751,79.101871,89,W09,0.0,node/7629203233,synthetic bus assignment
+H303,hospital,small,30.0,Dr. B.R. Shukla Hospital,21.146752,79.0537139,89,W01,0.0,node/7629203236,synthetic bus assignment
+H304,hospital,small,30.0,Best Orthopaedic Surgeon,21.1807407,79.1129537,84,W09,0.0,node/7629203239,synthetic bus assignment
+H305,hospital,small,30.0,Nitnavare Hospital,21.1718675,79.1002384,56,W09,0.0,node/7629203240,synthetic bus assignment
+H306,hospital,small,30.0,Central Hospital,21.1588822,79.0970395,52,W09,0.0,node/7629203241,synthetic bus assignment
+H307,hospital,small,30.0,Sai Eye Hospital,21.1389067,79.0617659,54,W01,0.0,node/7629203242,synthetic bus assignment
+H308,hospital,small,30.0,Dr. Vasalti Raut General Hospital,21.146746,79.052967,3,W01,0.0,node/7629203243,synthetic bus assignment
+H309,hospital,small,30.0,Dr. Pandit Hospital,21.133639,79.0834775,98,W05,0.0,node/7629203245,synthetic bus assignment
+H310,hospital,major,200.0,Super Hospital,21.1329749,79.0839237,61,W05,0.0,node/7629203246,synthetic bus assignment
+H311,hospital,small,30.0,Safal Hospital,21.1297589,79.0829058,53,W05,0.0,node/7629203247,synthetic bus assignment
+H312,hospital,small,30.0,Arora Hospital,21.137766,79.078871,61,W05,0.0,node/7629203248,synthetic bus assignment
+H313,hospital,small,30.0,"Dr. Yogesh Waikar Child Gastroenterologist, Hepatologist & Endoscopist",21.1371222,79.0845415,84,W05,0.0,node/7629203249,synthetic bus assignment
+H314,hospital,small,30.0,Bocardo Hospital,21.1732144,79.0912115,52,W09,0.0,node/7629203250,synthetic bus assignment
+H315,hospital,small,30.0,Madnani Hospital,21.19086,79.0778128,96,W10,0.0,node/7629203251,synthetic bus assignment
+H316,hospital,small,30.0,Kunal Hospital,21.1836122,79.079189,109,W10,0.0,node/7629203252,synthetic bus assignment
+H317,hospital,small,30.0,Welkin Multispeciality Hospital,21.1772445,79.055454,53,W11,0.0,node/7629203253,synthetic bus assignment
+H318,hospital,small,30.0,Royal Hospital,21.1498,79.041272,17,W01,0.0,node/7629203254,synthetic bus assignment
+H319,hospital,small,30.0,Kalbande Hospital,21.1836297,79.0647607,89,W10,0.0,node/7629203256,synthetic bus assignment
+H320,hospital,major,200.0,Icon Hospital - Super speciality Hospital,21.1483782,79.0501856,117,W01,0.0,node/7629203261,synthetic bus assignment
+H321,hospital,small,30.0,Colours Children Hospital,21.1380696,79.079879,18,W05,0.0,node/7629203262,synthetic bus assignment
+H322,hospital,small,30.0,Meher Nursing Home,21.1822365,79.0606076,81,W10,0.0,node/7629203263,synthetic bus assignment
+H323,hospital,major,200.0,Usha Memorial Hospital,21.1868133,79.0796389,95,W10,0.0,node/7629203265,synthetic bus assignment
+H324,hospital,small,30.0,Apex Hospital,21.1832222,79.0858336,111,W10,0.0,node/7629203266,synthetic bus assignment
+H325,hospital,major,200.0,Criticare Hospital & Research Institute,21.1405412,79.0853012,15,W05,0.0,node/7629203267,synthetic bus assignment
+H326,hospital,small,30.0,Nectar Hospital,21.134379,79.075048,12,W05,0.0,node/7629203268,synthetic bus assignment
+H327,hospital,small,30.0,Columbia Hospital,21.136587,79.0796834,116,W05,0.0,node/7629203269,synthetic bus assignment
+H328,hospital,major,200.0,Arogyam Superspeciality Hospital,21.190002,79.071641,14,W10,0.0,node/7629203271,synthetic bus assignment
+H329,hospital,small,30.0,Dande Hospital,21.1447187,79.0567217,26,W01,0.0,node/7629203275,synthetic bus assignment
+H330,hospital,small,30.0,Dr. M Hospital,21.175561,79.1085787,69,W09,0.0,node/7629203276,synthetic bus assignment
+H331,hospital,small,30.0,Orthonova Hospital,21.1524244,79.1036542,56,W09,0.0,node/7629203277,synthetic bus assignment
+H332,hospital,small,30.0,Dr. Mohammad Zakir,21.1741447,79.0766306,89,W10,0.0,node/7629203278,synthetic bus assignment
+H333,hospital,small,30.0,Neuron Hospital,21.1380677,79.0852427,28,W05,0.0,node/7629203279,synthetic bus assignment
+H334,hospital,small,30.0,Nelson Mother and Child Care Hospital,21.1324857,79.0782776,109,W05,0.0,node/7629203280,synthetic bus assignment
+H335,hospital,small,30.0,Chinmaya Children & Surgical Hospital,21.1409282,79.058237,32,W01,0.0,node/7629203282,synthetic bus assignment
+H336,hospital,small,30.0,Tirpude Hospital,21.1770142,79.103885,89,W09,0.0,node/7629203286,synthetic bus assignment
+H337,hospital,small,30.0,Wockartd Hospital,21.1340647,79.0821294,10,W05,0.0,node/7629203287,synthetic bus assignment
+H338,hospital,small,30.0,Godani Multi Speciality Hospital,21.172552,79.098436,58,W09,0.0,node/7629203290,synthetic bus assignment
+H339,hospital,small,30.0,R. R. Nursing Home,21.1757579,79.0512447,3,W11,0.0,node/7629203291,synthetic bus assignment
+H340,hospital,small,30.0,Gurbani Hospital,21.1833863,79.0919452,44,W10,0.0,node/7629203294,synthetic bus assignment
+H341,hospital,small,30.0,Shashwat Hospital,21.1719022,79.0998343,43,W09,0.0,node/7629203295,synthetic bus assignment
+H342,hospital,small,30.0,Venus Critical Care Hospital,21.1701724,79.0962576,83,W09,0.0,node/7629203298,synthetic bus assignment
+H343,hospital,small,30.0,Pandit Maternity & Nursing Home,21.1327063,79.0830804,58,W05,0.0,node/7629203300,synthetic bus assignment
+H344,hospital,small,30.0,Healthcity Children Hospital,21.1348675,79.0785363,7,W05,0.0,node/7629203301,synthetic bus assignment
+H345,hospital,small,30.0,Manorama Hospital,21.1490972,79.1176121,117,W09,0.0,node/7631501022,synthetic bus assignment
+H346,hospital,small,30.0,Wanjari Hospital,21.1240082,79.1180338,105,W04,0.0,node/7631501023,synthetic bus assignment
+H347,hospital,small,30.0,Iris Eye Hospital,21.0947765,79.0797539,109,W06,0.0,node/7631501024,synthetic bus assignment
+H348,hospital,small,30.0,Suryodaya Multispeciality Hospital,21.1240692,79.1170231,35,W04,0.0,node/7631501025,synthetic bus assignment
+H349,hospital,small,30.0,Anmol Maternity & Nursing Home,21.127863,79.1142545,53,W00,0.0,node/7631501026,synthetic bus assignment
+H350,hospital,small,30.0,City Line Multispeciality Hospital,21.1456602,78.9744567,33,W12,0.0,node/7631501027,synthetic bus assignment
+H351,hospital,small,30.0,Child Hospital,21.0932935,79.0777707,16,W06,0.0,node/7631501028,synthetic bus assignment
+H352,hospital,small,30.0,Pandagare Hospital,21.1537193,79.0043565,3,W11,0.0,node/7631501029,synthetic bus assignment
+H353,hospital,small,30.0,Puri Hospital and Maternity Home,21.1003517,79.073112,58,W06,0.0,node/7631501030,synthetic bus assignment
+H354,hospital,small,30.0,NewLife Hospital,21.086449,79.090388,15,W06,0.0,node/7631501031,synthetic bus assignment
+H355,hospital,small,30.0,Somani Hospital,21.145237,79.12203,26,W09,0.0,node/7631501033,synthetic bus assignment
+H356,hospital,small,30.0,Shree Vighnaharta Hospital,21.1203707,79.1049421,100,W00,0.0,node/7631501037,synthetic bus assignment
+H357,hospital,small,30.0,Biranjan Hospital,21.147794,79.13432,58,W09,0.0,node/7631501038,synthetic bus assignment
+H358,hospital,small,30.0,Yashoda Hospital,21.097166,79.1021542,27,W04,0.0,node/7631501040,synthetic bus assignment
+H359,hospital,small,30.0,Panacea Multi Speciality Hospital,21.1259157,79.1046481,78,W00,0.0,node/7631501041,synthetic bus assignment
+H360,hospital,major,200.0,Shri Bhawani Multispeciality Hospital and Research Institute,21.15098,79.160277,39,W09,0.0,node/7631501043,synthetic bus assignment
+H361,hospital,small,30.0,Kherde Maternity & Nursing Home,21.1008055,79.0666607,59,W06,0.0,node/7631501045,synthetic bus assignment
+H362,hospital,small,30.0,P.D. Hospital,21.1634485,78.9946994,41,W12,0.0,node/7631501046,synthetic bus assignment
+H363,hospital,small,30.0,Bharadwaj Hospital,21.157358,79.001041,59,W11,0.0,node/7631501047,synthetic bus assignment
+H364,hospital,small,30.0,Pushpachakra Hospital,21.1064785,79.119803,75,W04,0.0,node/7631501048,synthetic bus assignment
+H365,hospital,small,30.0,Kalpataru Hospital,21.115819,79.057005,61,W02,0.0,node/7631501049,synthetic bus assignment
+H366,hospital,small,30.0,Indira Hospital,21.1075867,79.1171192,53,W04,0.0,node/7631501050,synthetic bus assignment
+H367,hospital,small,30.0,Shri Ameya Hospital,21.1484275,79.1202037,91,W09,0.0,node/7631501051,synthetic bus assignment
+H368,hospital,small,30.0,Narmada Ratan Taori Hospital,21.137334,79.116817,103,W09,0.0,node/7631501052,synthetic bus assignment
+H369,hospital,major,200.0,HCG NCHRI Cancer Centre,21.1781655,79.1233803,26,W09,0.0,node/7631501053,synthetic bus assignment
+H370,hospital,small,30.0,Sure care Multispeciality Hospital,21.122916,79.1025949,17,W00,0.0,node/7631501054,synthetic bus assignment
+H371,hospital,small,30.0,Auro Critical Care Hospital,21.1474812,79.1336117,14,W09,0.0,node/7631501055,synthetic bus assignment
+H372,hospital,small,30.0,Adishakti Hospital,21.131135,79.1172712,115,W04,0.0,node/7631501056,synthetic bus assignment
+H373,hospital,small,30.0,Life Springs Hospital,21.1165322,79.0375271,114,W01,0.0,node/7631501057,synthetic bus assignment
+H374,hospital,small,30.0,Omkar Nursing Home,21.1052967,79.1096776,33,W04,0.0,node/7631501059,synthetic bus assignment
+H375,hospital,small,30.0,Hadole Hospital,21.1518648,78.9982591,115,W11,0.0,node/7631501062,synthetic bus assignment
+H376,hospital,small,30.0,Radiance Hospital,21.148474,79.131429,31,W09,0.0,node/7631501063,synthetic bus assignment
+H377,hospital,small,30.0,Gananam Hospital,21.132872,79.11968,58,W04,0.0,node/7631501064,synthetic bus assignment
+H378,hospital,small,30.0,Aparajit Orthopaedic & Maternity Nursing Home,21.118341,79.064347,58,W02,0.0,node/7631501066,synthetic bus assignment
+H379,hospital,small,30.0,KRIMS Hospitals,21.0895132,79.0784084,109,W06,0.0,node/7631501068,synthetic bus assignment
+H380,hospital,small,30.0,Safe Hands Hospitals,21.1480333,79.1204414,5,W09,0.0,node/7631501069,synthetic bus assignment
+H381,hospital,small,30.0,Renuka Maternity & ENT Hospital,21.1254292,79.0593904,44,W01,0.0,node/7631501070,synthetic bus assignment
+H382,hospital,small,30.0,Shri Krupa Hospital,21.1066567,79.1197293,73,W04,0.0,node/7631501071,synthetic bus assignment
+H383,hospital,small,30.0,Kimmatkar Orthopaedic Hospital,21.147904,79.123308,10,W09,0.0,node/7631501072,synthetic bus assignment
+H384,hospital,small,30.0,Deshmukh Hospital,21.118874,79.0649341,34,W02,0.0,node/7631501074,synthetic bus assignment
+H385,hospital,small,30.0,Ear Nose & Throat Hospital,21.1169542,79.0564945,58,W02,0.0,node/7631501075,synthetic bus assignment
+H386,hospital,small,30.0,Naik Hospital,21.1108614,79.0683627,104,W06,0.0,node/7631501076,synthetic bus assignment
+H387,hospital,small,30.0,Shreemayi Hospital,21.131205,79.110519,89,W00,0.0,node/7631501078,synthetic bus assignment
+H388,hospital,small,30.0,Barad Hospital,21.128076,79.1140436,96,W00,0.0,node/7631501079,synthetic bus assignment
+H389,hospital,small,30.0,Dr. Arvind Kinge General Hospital,21.1154272,79.0508885,89,W01,0.0,node/7631501080,synthetic bus assignment
+H390,hospital,small,30.0,Kalpavruksha Hospital,21.110765,79.0718571,81,W06,0.0,node/7631501082,synthetic bus assignment
+H391,hospital,small,30.0,ESI Hospital,21.15414,78.9987487,99,W11,0.0,node/7631501083,synthetic bus assignment
+H392,hospital,major,200.0,Chakole Government Hospital,21.1437162,79.122457,79,W09,0.0,node/7631501085,synthetic bus assignment
+H393,hospital,small,30.0,Shahu Hospital,21.129294,79.113319,87,W00,0.0,node/7631501086,synthetic bus assignment
+H394,hospital,small,30.0,Jafri Hospital and Research Centre,21.1200212,79.1230947,41,W04,0.0,node/7631501087,synthetic bus assignment
+H395,hospital,small,30.0,Anurag Multi Specialty Hospital,21.124545,79.138924,26,W04,0.0,node/7631501088,synthetic bus assignment
+H396,hospital,small,30.0,Well Treat Multispeciality Hospital,21.15403,79.010109,89,W11,0.0,node/7631501091,synthetic bus assignment
+H397,hospital,small,30.0,Shri Swami Samarth Hospital,21.1145409,79.0426266,23,W01,0.0,node/7631501092,synthetic bus assignment
+H398,hospital,small,30.0,Utkarsha Nursing Home,21.0909407,79.07665,109,W06,0.0,node/7631501093,synthetic bus assignment
+H399,hospital,small,30.0,Gandhi Nursing Home and Cocoon Test Tube Baby Centre,21.1491465,79.1129312,73,W09,0.0,node/7631501094,synthetic bus assignment
+H400,hospital,small,30.0,Santaji Hospital,21.1390503,79.1207165,45,W09,0.0,node/7631501095,synthetic bus assignment
+H401,hospital,small,30.0,Samarpan Nursing Home,21.117059,79.1268798,112,W04,0.0,node/7631501096,synthetic bus assignment
+H402,hospital,small,30.0,Sartaj Hospital,21.1705617,79.1292917,19,W09,0.0,node/7631501097,synthetic bus assignment
+H403,hospital,small,30.0,S D Hospital,21.138248,79.1164206,58,W09,0.0,node/7631501098,synthetic bus assignment
+H404,hospital,small,30.0,Welltreat Hospital,21.1537663,79.0085423,12,W11,0.0,node/7631501100,synthetic bus assignment
+H405,hospital,small,30.0,Navjeevan Hospital,21.1511647,78.9963283,115,W11,0.0,node/7631501101,synthetic bus assignment
+H406,hospital,small,30.0,Om Multispeciality Hospital,21.152789,79.1191913,69,W09,0.0,node/7631501102,synthetic bus assignment
+H407,hospital,small,30.0,Bhelonde Child Hospital & Multispeciality Hospital,21.12538,79.117298,93,W04,0.0,node/7631501105,synthetic bus assignment
+H408,hospital,small,30.0,Vedansha Hospital,21.1182417,79.0648616,40,W02,0.0,node/7631501107,synthetic bus assignment
+H409,hospital,small,30.0,Mrutyunjai Hospital,21.116194,79.038361,92,W01,0.0,node/7631501108,synthetic bus assignment
+H410,hospital,small,30.0,Abhiyog Hospital,21.1306712,79.1178421,81,W04,0.0,node/7631501109,synthetic bus assignment
+H411,hospital,small,30.0,Ordinance Factory Hospital,21.1436586,78.987331,76,W01,0.0,node/7631501111,synthetic bus assignment
+H412,hospital,major,200.0,"All India Institute of Medical Sciences , Nagpur",21.0356706,79.0264124,115,W07,0.0,node/8805734866,synthetic bus assignment
+H413,hospital,small,30.0,Mogre Children Hospital,21.1280221,79.1140026,55,W00,0.0,node/8805764599,synthetic bus assignment
+H414,hospital,small,30.0,Hope Hospital,21.189091,79.105162,54,W09,0.0,node/8805781144,synthetic bus assignment
+H415,hospital,small,30.0,Ganga Care Hospital Limited,21.1460772,79.0660212,79,W05,0.0,node/8806023876,synthetic bus assignment
+H416,hospital,small,30.0,NewEra Hospital,21.1515056,79.1218843,97,W09,0.0,node/8806074452,synthetic bus assignment
+H417,hospital,small,30.0,Viveka Hospital,21.1204386,79.0427671,46,W01,0.0,node/8806102893,synthetic bus assignment
+H418,hospital,small,30.0,Lifeline hospital,21.190499,79.0913554,78,W10,0.0,node/8806123945,synthetic bus assignment
+H419,hospital,small,30.0,,21.1142819,79.0564727,31,W02,0.0,node/8913989969,synthetic bus assignment
+H420,hospital,small,30.0,,21.1281645,79.0938826,65,W03,0.0,node/10285002109,synthetic bus assignment
+H421,hospital,small,30.0,Suyog Hospital,21.1081278,79.0811599,89,W06,0.0,node/10561643054,synthetic bus assignment
+H422,hospital,small,30.0,PROPOSED SITE,21.0753125,79.0626595,10,W06,0.0,node/10632883389,synthetic bus assignment
+H423,hospital,small,30.0,Remedia Hospital,21.1965069,79.0786109,85,W10,0.0,node/11012353292,synthetic bus assignment
+H424,hospital,small,30.0,Tambe Hospital,21.1048001,79.1131296,1,W04,0.0,node/11351141869,synthetic bus assignment
+H425,hospital,small,30.0,Dr. Sunil V. Bajaj,21.1235966,79.1111558,115,W00,0.0,node/11351141870,synthetic bus assignment
+H426,hospital,small,30.0,Kingsway Hospital,21.1545986,79.0848229,58,W09,0.0,node/11387104749,synthetic bus assignment
+H427,hospital,small,30.0,Medinine Hospital,21.1014632,79.1019221,53,W04,0.0,node/12539173416,synthetic bus assignment
+H428,hospital,major,200.0,Arogyam Superspeciality Hospital,21.1033595,79.0655119,83,W06,0.0,node/12593350543,synthetic bus assignment
+H429,hospital,major,200.0,Nagpur Government Hospital,21.1278882,79.097146,59,W00,0.0,way/253403396,synthetic bus assignment
+H430,hospital,small,30.0,KMG Hospital,21.1198767,79.1044322,85,W00,0.0,way/388171913,synthetic bus assignment
+H431,hospital,small,30.0,Niyakshi Hospital,21.122712,79.1046923,11,W00,0.0,way/390612803,synthetic bus assignment
+H432,hospital,small,30.0,ALEXIS MULTISPECIALITY HOSPITAL PVT. LTD.,21.1856964,79.0795105,66,W10,0.0,way/444726451,synthetic bus assignment
+H433,hospital,small,30.0,Mental Hospital,21.1755759,79.0785295,65,W10,0.0,way/463130898,synthetic bus assignment
+H434,hospital,small,30.0,SevenStar Hospital,21.1394594,79.119997,111,W09,0.0,way/658048548,synthetic bus assignment
+H435,hospital,small,30.0,Wockhardt Heart Hospital,21.1322239,79.0541473,5,W01,0.0,way/756311320,synthetic bus assignment
+H436,hospital,major,200.0,Central India Institute Of Medical Sciences,21.1286297,79.0613924,58,W01,0.0,way/758158865,synthetic bus assignment
+H437,hospital,major,200.0,GMC building,21.1263384,79.0970532,76,W00,0.0,way/958733124,synthetic bus assignment
+H438,hospital,small,30.0,Darda Hospital & Maternity Home,21.1345765,79.07737,61,W05,0.0,way/1160425716,synthetic bus assignment
+H439,hospital,small,30.0,Shanta Hospital,21.0916787,78.9729223,10,W07,0.0,way/1196751922,synthetic bus assignment
+H440,hospital,small,30.0,Harishchandra Healthcare Pvt Ltd,21.1497135,79.0993242,73,W09,0.0,way/1241317281,synthetic bus assignment
+H441,hospital,small,30.0,,21.1273876,79.1136373,32,W00,0.0,way/1272267466,synthetic bus assignment
+H442,hospital,small,30.0,Shree Multispecialtiy Hospital,21.1360939,79.1081718,30,W09,0.0,way/1274052830,synthetic bus assignment
+H443,hospital,small,30.0,,21.1339698,79.1007236,103,W00,0.0,way/1274055024,synthetic bus assignment
+H444,hospital,small,30.0,Gastrologist and Liver Diseases,21.1359553,79.1081766,30,W09,0.0,way/1274055965,synthetic bus assignment
+W00,pump,,0.0,,21.1236818,79.0919684,58,,112498.67571602619,node/2844012637,synthetic bus assignment
+W01,pump,,0.0,Laxmi Nagar Water Tank,21.1241553,79.0605025,89,,342995.53539779555,node/2844038381,synthetic bus assignment
+W02,pump,,0.0,Lakshmi Nagar Water Tank,21.1239242,79.0608069,81,,111198.2237320283,node/2844038382,synthetic bus assignment
+W03,pump,,0.0,,21.1256379,79.089525,65,,40135.42870794558,node/3972951659,synthetic bus assignment
+W04,pump,,0.0,,21.1067265,79.1210015,93,,315781.1066314829,way/743671469,synthetic bus assignment
+W05,pump,,0.0,,21.1298421,79.080353,58,,118152.38102829874,way/743687188,synthetic bus assignment
+W06,pump,,0.0,,21.1088097,79.0811648,75,,247112.16177696723,way/846754582,synthetic bus assignment
+W07,pump,,0.0,,21.0512762,79.018514,94,,196674.58231476948,way/848874342,synthetic bus assignment
+W08,pump,,0.0,,21.2122886,79.1982767,79,,64237.038326224574,way/884838514,synthetic bus assignment
+W09,pump,,0.0,,21.1530053,79.0997411,76,,536398.3989520931,way/904151338,synthetic bus assignment
+W10,pump,,0.0,Water treatment plant,21.1781898,79.0626361,53,,319186.13463880593,way/1119416841,synthetic bus assignment
+W11,pump,,0.0,NMC water treatement plant,21.1772526,79.0577379,65,,214970.02463031258,way/1119416872,synthetic bus assignment
+W12,pump,,0.0,,21.2082313,78.954396,53,,90064.79644393544,way/1313479882,synthetic bus assignment
+W13,pump,,0.0,,21.2096789,78.9518429,89,,1277.6491760041197,way/1313479883,synthetic bus assignment
